@@ -1,0 +1,193 @@
+#col1{
+	background-color: #e056fd;
+}
+
+#col2{
+	background-color: #34495e; 
+}
+
+.vertical-text{
+	transform: rotate(270deg);
+	color: #ecf0f1;
+	float: left;
+}
+
+
+#col3{
+	background-color: #e056fd;
+	padding-top: 190px;
+	float: left;
+}
+
+#col4{
+	background-color: #e056fd;
+
+}
+
+#col5{
+	background-color: #34495e;
+	color: #ecf0f1;
+}
+
+.dotted{
+	border-bottom: 5px dotted #ecf0f1;
+	text-decoration: none;
+}
+
+#col6{
+	background-color: #e056fd;
+	color: #ecf0f1;
+	padding-left: 40px;
+
+}
+
+#harley{
+	width: 345px;
+	height: 260px;
+}
+
+#ali{
+	width: 230px;
+	height: 260px;
+}
+
+#valen{
+	width: 229px;
+	height: 260px;
+}
+
+#krister{
+	width: 230px;
+	height: 260px;
+}
+
+#row1{
+	height: 100px;
+}
+
+
+
+#col8{
+	background-color: #0abde3;
+}
+
+#row2{
+	height: 150px;
+}
+
+#col9{
+	background-color: #0abde3;
+	color: #ecf0f1;	
+}
+
+#col7{
+	background-color: #ecf0f1;
+}
+
+#row3{
+	background-image: url("harley-davidson-HYjJ1_AZnqw-unsplash.jpg");
+	height: 1000px;
+	background-position: center;
+	background-size: cover;
+}
+
+#ver{
+	padding-right: 100px;
+	padding-bottom: 50px;
+}
+
+#col10{
+	background-color: #34495e; 
+	color: white;
+}
+
+#row4{
+	height: 450px;
+}
+
+#col11{
+	padding-left: 40px;
+	color: white;
+}
+
+#row5{
+	height: 200px;
+}
+
+#row6{
+	background-image: url("pop-zebra-CrYbjiaiJtY-unsplash.jpg");
+	height: 700px;
+	width: 500px;
+	background-position: center;
+	background-size: cover;
+}
+
+.vertical-text1{
+	transform: rotate(270deg);
+	color: #2c3e50;
+	float: left;
+	padding-top: 350px;
+	padding-left: 230px;
+}
+
+#col12{
+	background: linear-gradient(
+		to right,
+		#ecf0f1 88%,
+		#0abde3 12%
+		);
+}
+
+#col13{
+	background: linear-gradient(
+		to right,
+		#0abde3 45%,
+		#ecf0f1 30%
+		);
+}
+
+#row7{
+	height: 300px;
+}
+
+#col14{
+	background-color: #e67e22;
+}
+
+#col15{
+	background-color: #e056fd;
+	color: #ecf0f1;
+}
+
+#select{
+	padding-left: 20px;
+}
+
+#no1{
+	font-size: 500%;
+	color: #ecf0f1;
+}
+
+#mid{
+	color: #ecf0f1;
+}
+
+.vertical-text2{
+	transform: rotate(270deg);
+	color: #ecf0f1;
+	padding-left: 780px;
+	padding-top: 850px;
+}
+
+@media (min-width: 600px) {
+	body {
+		font-size: 1.25rem;
+	}
+}
+
+@media (min-width: 800px) {
+	body {
+		font-size: 1.5rem;
+		line-height: 1.5;
+	}
+}
