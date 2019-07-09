@@ -1,3 +1,7 @@
+.wrapper{
+	width: 100%;
+}
+
 #col1{
 	background-color: #e056fd;
 }
@@ -179,9 +183,109 @@
 	padding-top: 850px;
 }
 
-@media (min-width: 600px) {
-	body {
-		font-size: 1.25rem;
+#col16{
+	background-color: #e056fd;
+}
+#col17{
+	background-color: #e056fd;
+}
+
+@media {
+	#start {
+		width: 540px;
+	}
+	#beautycol{
+		width: 540px;
+	}
+	#row1{
+		height: 0px;
+	}
+	#harley{
+		width: 540px;
+		height: 341px;
+	}
+	#ali{
+		width: 540px;
+		height: 620px;
+	}
+	#valen{
+		width: 540px;
+		height: 627px;
+	}
+	#krister{
+		width: 540px;
+		height: 693px;
+	}
+	#row2{
+		height: 0px;
+	}
+	#road{
+		width: 540px;
+		height: 344px;
+	}
+	#ver{
+		padding-right: 5px;
+		padding-bottom: 228px;
+	}
+	#about{
+		width: 540px;
+		height: 264px;
+	}
+	#row3{
+		width: 540px;
+	}
+	#strong{
+		width: 540px;
+	}
+	#down{
+		width: 540px;
+	}
+	#row5{
+		height: 0px;
+	}
+	#col12{
+		width: 300px;
+	}
+	#not{
+		width: 540px;
+	}
+	#row6{
+		width: 540px;
+	}
+	#col1{
+		width: 264px;
+	}
+	#row7{
+		height: 0px;
+	}
+	#design{
+		width: 540px;
+	}
+	#col15{
+		height: 55px;
+	}
+	#select{
+		padding-top: 10px;
+	}
+	#no1{
+		padding-left: 10px;
+	}
+	#mid{
+		padding-left: 10px;
+	}
+	#col16{
+		width: 540px;
+		height: 540px;
+	}
+	#row8{
+		width: 540px;
+	}
+	#col17{
+		width: 539px;
+		height: 708px;
+	}
+	#last{
+		width: 540px;
 	}
 }
 
@@ -191,3 +295,4 @@
 		line-height: 1.5;
 	}
 }
+
